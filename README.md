@@ -1,6 +1,6 @@
-# Speak at ONE-SHOT <insert city name>!
+# Speak at ONE-SHOT Oakland!
 
-<insert dates and location details>
+December 10th 2014 at The New Parkway in Oakland, California!
 
 ONE-SHOT is a one day single track speaker series presented by NodeConf.
 
